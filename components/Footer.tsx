@@ -34,12 +34,14 @@ const Footer = () => {
               key={profile.id}
               className="w-10 h-10 cursor-pointer flex justify-center items-center backdrop-filter backdrop-blur-lg saturate-180 bg-black rounded-lg border border-black-300"
             >
-              <img
-                src={profile.img}
-                alt="social media icon"
-                width={20}
-                height={20}
-              ></img>
+              <a href={profile.medialink}>
+                <img
+                  src={profile.img}
+                  alt="social media icon"
+                  width={20}
+                  height={20}
+                ></img>
+              </a>
             </div>
           ))}
         </div>

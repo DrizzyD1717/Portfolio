@@ -49,7 +49,7 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a JS Animation library",
+    title: "Currently building websites with React, Next.js, and Tailwind CSS.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -181,15 +181,15 @@ export const workExperience = [
   },
   {
     id: 2,
-    title: "Mobile App Dev - JSM Tech",
-    desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+    title: "Frontend Developer (React",
+    desc: "Built responsive web platforms using React.js, improving performance and user experience.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp2.svg",
   },
   {
     id: 3,
-    title: "Freelance App Dev Project",
-    desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+    title: "Freelance Web Developer",
+    desc: "Developed and deployed a client website, focusing on design, usability, and modern tech.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/exp3.svg",
   },
@@ -206,13 +206,16 @@ export const socialMedia = [
   {
     id: 1,
     img: "/git.svg",
+    medialink: "https://github.com/DrizzyD1717",
   },
   {
     id: 2,
     img: "/twit.svg",
+    medialink: "https://x.com/meme_gems",
   },
   {
     id: 3,
     img: "/link.svg",
+    medialink: "https://www.linkedin.com/in/dari-olulana/",
   },
 ];
