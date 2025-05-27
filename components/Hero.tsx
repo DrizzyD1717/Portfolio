@@ -22,7 +22,7 @@ const Hero = () => {
           fill="blue"
         ></Spotlight>
       </div>
-      <div className="absolute top-0 left-0 flex h-screen w-full items-center justify-center bg-white dark:bg-black">
+      <div className="absolute top-0 left-0 flex h-screen w-full items-center justify-center dark:bg-black">
         <div
           className={cn(
             "absolute inset-0",
