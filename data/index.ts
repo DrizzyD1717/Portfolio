@@ -114,25 +114,25 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Ariana Williams",
-    title: "Director of AlphaStream Technologies",
+      "Working with Dari was an absolute pleasure. They transformed our outdated website into a modern, responsive interface that our users love. Their attention to detail and user experience is top-notch.",
+    name: "Samantha K.",
+    title: "Product Manager at StartWise",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-    name: "Albedo Misfit",
-    title: "Director of AlphaStream Technologies",
+      "Super fast, super clean, and pixel-perfect! [Your Name] brought our designs to life exactly how we envisioned. Communication was smooth and deadlines were always met.",
+    name: "Liam R.",
+    title: " Creative Director at NovaStudio",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "We needed someone who could quickly jump into our React project and make sense of a complex UI. [Your Name] delivered clean, maintainable code and improved the overall performance of our frontend.",
     name: "Adetifa Ayodeji",
-    title: "Director of AlphaStream Technologies",
+    title: "UX Designer at MarketLane",
   },
   {
     quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "From Figma to flawless implementation, [Your Name] nailed every component. They went above and beyond, even optimizing parts of our layout for better mobile usability.",
     name: "Harris Adking",
     title: "Director of AlphaStream Technologies",
   },
