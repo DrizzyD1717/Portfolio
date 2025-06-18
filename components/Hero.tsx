@@ -59,13 +59,18 @@ const Hero = () => {
             Hi, I&apos;m Dari, a Next.js Developer based in Lagos
           </p>
 
-          <a href="about">
+          {/* <a href="about">
             <MagicButton
               title="Show my work"
               icon={<FaLocationArrow></FaLocationArrow>}
               position="right"
             ></MagicButton>
-          </a>
+          </a> */}
+          <MagicButton
+            title="Show my work"
+            icon={<FaLocationArrow></FaLocationArrow>}
+            position="right"
+          ></MagicButton>
         </div>
       </div>
     </div>

@@ -97,11 +97,11 @@ export const projects = [
   },
   {
     id: 4,
-    title: "DHairs Beauty Saloon",
-    des: "A modern beauty saloon website with a sleek design and animations.",
-    img: "/Dhairs.png",
-    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-    link: "https://dhairsbeautysaloon.netlify.app/",
+    title: "Camp Out Site",
+    des: "A campsite booking website for outdoor lovers with a modern design and animations.",
+    img: "/campsite.png",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg"],
+    link: "https://campstay.netlify.app/",
   },
 ];
 
